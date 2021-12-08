@@ -1,2 +1,2 @@
 #  Board animation
-# https://jsfiddle.net/yynyds/28vwxgre/
+# https://yynyds.github.io/mouse-board-animation/
